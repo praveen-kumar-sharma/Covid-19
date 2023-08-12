@@ -1,1 +1,1 @@
-# Covid-19
+# Latest Covid-19 vaccination status in India by state or UT, as of August 5,2023.
